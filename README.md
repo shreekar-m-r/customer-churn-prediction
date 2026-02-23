@@ -44,6 +44,10 @@ Algorithms Used:
 
 ## 📂 Project Structure
 
+src/        → Model development code
+reports/    → Final report and presentation
+data/       → Dataset documentation
+
 ## 💡 Business Insights
 - Customers with low tenure churn more
 - Monthly contracts show higher churn
